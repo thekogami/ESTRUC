@@ -11,6 +11,7 @@ package com.example;
 // c) Remova um elemento.
 
 // d) Indique com setas o processo de busca de um elemento no skip list.
+// https://blog.reachsumit.com/posts/2020/07/skip-list/
 
 import java.util.Random;
 
